@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HotelTango314
+- 👋 Hi, I’m @HotelTango314 (Henry Thomas)
 - 👀 I’m interested in building programming skill through working on projects I can put on a resume.
 - 🌱 I’m currently learning about machine learning throuh OU's Master of Data Science and Analytics.
 - 💞️ I’m looking to collaborate on open source projects to build coding fluency and machine learning understanding.
